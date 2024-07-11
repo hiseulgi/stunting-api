@@ -1,0 +1,1 @@
+docker run -d --restart unless-stopped -p 80:8501 hiseulgi/stunting-streamlit:latest
